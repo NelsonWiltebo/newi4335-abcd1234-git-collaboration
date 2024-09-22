@@ -1,3 +1,11 @@
+Person A:
+
 Användare på GitHub: NelsonWiltebo
 Namn: Nelson Wiltebo
 Epost: nelson.wiltebo.4335@student.uu.se
+
+Person B:
+
+Användare på GitHub: Wiltebo2
+Namn: Nelson Wiltebo
+Epost: nelsonwilteb@gmail.com
